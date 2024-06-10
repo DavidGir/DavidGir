@@ -18,7 +18,7 @@
 
 - 🚀 **Junior AI Developer** at Syntax
 - 🧠 Passionate about **Generative AI** and **ERP systems**
-- 🌱 Currently learning **LangChain** and other AI technologies
+- 🌱 Learning every day as AI technologies evolve at a daily pace
 - 📑 Experience in full stack development
 - 🎖️ Former Logistics Officer for the Canadian Armed Forces with over five years of leadership & supply chain management experience
 
