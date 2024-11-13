@@ -49,11 +49,11 @@
 
 ### :fire: My Stats :
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidGir&show_icons=true&theme=radical" alt="DavidGir's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidGir&show_icons=true&theme=radical" alt="DavidGir's GitHub statistics"/>
 </div>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGir&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGir&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
   </a>
 </div>
 
